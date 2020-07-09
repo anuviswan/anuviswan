@@ -12,9 +12,9 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 I fell in love with programming in early 2000 and since then has been trying to develop my knowledge. I have a preference with C# language, however, I would not like limit myself with the same. I love working on developer tools, and it is a long term desire to be involved in development of a great developer tool like Resharper, which makes life so easy for the developers.
 
-Developer Blog : [ByteLanguage.Net](www.bytelanguage.net)
-CSharpCorner Profile : [Profile](https://www.c-sharpcorner.com/members/anu.viswan)
-Stackover : [Profile](https://stackoverflow.com/users/7299782/anu-viswan)
+* Developer Blog : [ByteLanguage.Net](www.bytelanguage.net)
+* CSharpCorner Profile : [Profile](https://www.c-sharpcorner.com/members/anu.viswan)
+* Stackover : [Profile](https://stackoverflow.com/users/7299782/anu-viswan)
 
 
 
