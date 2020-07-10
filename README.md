@@ -2,9 +2,9 @@
 
 Hey there I'm Anu Viswan, a .Net Developer and Team lead at **Beo Software**, India. I currently work with desktop applications (WPF) and Web Api(Asp.Net Web API MVC5). Prior to my current profile, I ....
 
-* I cofounded **Ecsolvo Technologies**, where I developed Mobile and Web Applications for Education and Tourism industry, using Xamarin, Asp.Net, JQuery 
-* I used to be Project Manager with **Cascade Revenue Management**, where I was involved with development of Web Applications for HealthCare Companies using Asp.Net, ExtJs 
-* I was a Principal Technical Lead with **Calpine Group**, where I worked with Desktop and Web applications using .Net Winforms, Asp.Net for companies working in Life Science domain
+* I _cofounded_ **Ecsolvo Technologies**, where I developed Mobile and Web Applications for Education and Tourism industry, using Xamarin, Asp.Net, JQuery 
+* I used to be _Project Manager_ with **Cascade Revenue Management**, where I was involved with development of Web Applications for HealthCare Companies using Asp.Net, ExtJs 
+* I was a _Principal Technical Lead_ with **Calpine Group**, where I worked with Desktop and Web applications using .Net Winforms, Asp.Net for companies working in Life Science domain
 
 You can find more details on my professional career in my [Linkedin Profile](https://www.linkedin.com/in/anuviswan/). 
 
