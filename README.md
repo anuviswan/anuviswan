@@ -10,7 +10,7 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 # I Love
 
-I fell in love with programming in early 2000 and since then has been trying to develop my knowledge. I have a preference with C# language, however, I would not like limit myself with the same. I love working on developer tools, and it is a long term desire to be involved in development of a great developer tool like Resharper, which makes life so easy for the developers.
+I fell in love with programming in early 2000 and since then has been trying to develop my knowledge. I have a preference with C# language, however, I would not like limit myself with the same. I love working on developer tools, and it is a long term desire to be involved in development of a great developer tool like Resharper, which makes life so easy for the developers. On other hand, I would like to improve my knowledge and working experience in Web Technologies and also work on Rasberry Pi Projects.
 
 Read more of my contributions 
 * Developer Blog : [ByteLanguage.Net](www.bytelanguage.net)
