@@ -10,7 +10,7 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 # Favs
 
-* Books : C# in Depth - Jon Skeet, The Pragmatic Programmer - Andy Hunt, Dave Thomas
+* Books : C# in Depth - _Jon Skeet_, The Pragmatic Programmer - _Andy Hunt, Dave Thomas_
 * Programming Language : C#
 * Ideal Project : A Developer tool similiar to Resharper
 
