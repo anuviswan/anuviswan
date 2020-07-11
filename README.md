@@ -15,15 +15,12 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 * Ideal Project : A Developer tool similiar to Resharper
 
 
-Read more of my contributions 
+# Contributions
 * Developer Blog : [ByteLanguage.Net](www.bytelanguage.net)
 * CSharpCorner Author : [Profile](https://www.c-sharpcorner.com/members/anu.viswan)
 * Stackoverflow : [Profile](https://stackoverflow.com/users/7299782/anu-viswan)
 
-
-
 # Reach me
-You can reach me via
 * Twitter : [anuviswan](https://twitter.com/anuviswan)
 * Email : anu.viswan@gmail.com
 
