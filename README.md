@@ -12,8 +12,6 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 * Books : C# in Depth - _Jon Skeet_, The Pragmatic Programmer - _Andy Hunt, Dave Thomas_
 * Preferred Programming Language : C#
-* Ideal Project : A Developer tool similiar to Resharper
-
 
 # Contributions
 * Developer Blog : [ByteLanguage.Net](http://www.bytelanguage.net)
