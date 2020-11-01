@@ -12,6 +12,7 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 * Books : C# in Depth - _Jon Skeet_, The Pragmatic Programmer - _Andy Hunt, Dave Thomas_
 * Preferred Programming Language : C#
+* Other Interested Languages/Frameworks : JavaScript(VueJs, ReactJs), Dart, Flutter
 
 # Contributions
 * Developer Blog : [ByteLanguage.Net](http://www.bytelanguage.net)
