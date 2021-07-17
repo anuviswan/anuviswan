@@ -19,6 +19,10 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 * CSharpCorner Author : [Profile](https://www.c-sharpcorner.com/members/anu.viswan)
 * Stackoverflow : [Profile](https://stackoverflow.com/users/7299782/anu-viswan)
 
+## Recent Blogs
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 # Reach me
 * Twitter : [anuviswan](https://twitter.com/anuviswan)
 * Email : anu.viswan@gmail.com
