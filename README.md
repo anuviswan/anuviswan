@@ -21,11 +21,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Event Aggregator](https://bytelanguage.net/2021/07/19/event-aggregator/)
 - [Cheat Code for Database Meta information : Sql Server](https://bytelanguage.net/2021/07/17/cheat-code-for-database-meta-information-sql-server/)
 - [Gof : Observer Pattern](https://bytelanguage.net/2021/07/16/gof-observer-pattern/)
 - [Retrieve DataPoints displayed using Oxyplot when Zooming or Panning](https://bytelanguage.net/2021/07/09/retrieve-datapoints-displayed-using-oxyplot-when-zooming-or-panning/)
 - [More on debugging DependencyProperty](https://bytelanguage.net/2021/07/07/more-on-debugging-dependencyproperty/)
-- [.Net 6: Linq enhancements](https://bytelanguage.net/2021/06/25/net-6-linq-enhancements/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
