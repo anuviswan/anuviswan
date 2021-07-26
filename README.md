@@ -25,6 +25,6 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 # Reach me
 * Twitter : [anuviswan](https://twitter.com/anuviswan)
 * Email : anu.viswan@gmail.com
-* LinkedIn : [anuviswan]https://www.linkedin.com/in/anuviswan/
+* LinkedIn : [anuviswan](https://www.linkedin.com/in/anuviswan/)
 
 
