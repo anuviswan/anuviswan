@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Jwt Authentication using .Net Core 5](https://bytelanguage.net/2021/07/28/jwt-authentication-using-net-core-5/)
 - [Cheat Code for Database Meta information : PostgreSql](https://bytelanguage.net/2021/07/23/cheat-code-for-database-meta-information-postgresql/)
 - [Event Aggregator](https://bytelanguage.net/2021/07/19/event-aggregator/)
 - [Cheat Code for Database Meta information : Sql Server](https://bytelanguage.net/2021/07/17/cheat-code-for-database-meta-information-sql-server/)
 - [Gof : Observer Pattern](https://bytelanguage.net/2021/07/16/gof-observer-pattern/)
-- [Retrieve DataPoints displayed using Oxyplot when Zooming or Panning](https://bytelanguage.net/2021/07/09/retrieve-datapoints-displayed-using-oxyplot-when-zooming-or-panning/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
