@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Embed external application inside WPF Application](https://bytelanguage.net/2021/08/06/embed-external-application-inside-wpf-application/)
 - [.Net 6 : Jwt Authentication in Minimal Web Api](https://bytelanguage.net/2021/07/30/net-6-jwt-authentication-in-minimal-web-api/)
 - [Jwt Authentication using .Net Core 5](https://bytelanguage.net/2021/07/28/jwt-authentication-using-net-core-5/)
 - [Cheat Code for Database Meta information : PostgreSql](https://bytelanguage.net/2021/07/23/cheat-code-for-database-meta-information-postgresql/)
 - [Event Aggregator](https://bytelanguage.net/2021/07/19/event-aggregator/)
-- [Cheat Code for Database Meta information : Sql Server](https://bytelanguage.net/2021/07/17/cheat-code-for-database-meta-information-sql-server/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
