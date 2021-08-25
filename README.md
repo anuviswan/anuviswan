@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [The Last Non-Null Value Problem](https://bytelanguage.net/2021/08/24/the-last-non-null-value-problem/)
 - [Debugging C# Source Generator](https://bytelanguage.net/2021/08/15/debugging-c-source-generator/)
 - [Source Generator : AutoToString](https://bytelanguage.net/2021/08/13/source-generator-autotostring/)
 - [Embed external application inside WPF Application](https://bytelanguage.net/2021/08/06/embed-external-application-inside-wpf-application/)
 - [.Net 6 : Jwt Authentication in Minimal Web Api](https://bytelanguage.net/2021/07/30/net-6-jwt-authentication-in-minimal-web-api/)
-- [Jwt Authentication using .Net Core 5](https://bytelanguage.net/2021/07/28/jwt-authentication-using-net-core-5/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
