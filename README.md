@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Rosyln API Recipies Part 001](https://bytelanguage.net/2021/09/05/rosyln-api-recipies-part-001/)
 - [Google Authentication for your Azure Function app](https://bytelanguage.net/2021/08/29/google_authentication_azure_function/)
 - [The Last Non-Null Value Problem](https://bytelanguage.net/2021/08/24/the-last-non-null-value-problem/)
 - [Debugging C# Source Generator](https://bytelanguage.net/2021/08/15/debugging-c-source-generator/)
 - [Source Generator : AutoToString](https://bytelanguage.net/2021/08/13/source-generator-autotostring/)
-- [Embed external application inside WPF Application](https://bytelanguage.net/2021/08/06/embed-external-application-inside-wpf-application/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
