@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [WPF Tips and Tricks 001: TargetNullValue and FallBackValue](https://bytelanguage.net/2021/09/25/wpf-tips-and-tricks-001-targetnullvalue-and-fallbackvalue/)
 - [Json To Xml : Wrapping the Array Elements](https://bytelanguage.net/2021/09/18/json-to-xml-wrapping-the-array-elements/)
 - [Single View for Multiple ViewModels in Caliburn Micro](https://bytelanguage.net/2021/09/11/single-view-for-multiple-viewmodels-in-caliburn-micro/)
 - [Rosyln API Recipies Part 001](https://bytelanguage.net/2021/09/05/rosyln-api-recipies-part-001/)
 - [Google Authentication for your Azure Function app](https://bytelanguage.net/2021/08/29/google_authentication_azure_function/)
-- [The Last Non-Null Value Problem](https://bytelanguage.net/2021/08/24/the-last-non-null-value-problem/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
