@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [.Net 6 : PeriodTimer](https://bytelanguage.net/2021/10/17/net-6-periodtimer/)
 - [Caliburn Micro 4.0 – Issue with EventAggregator](https://bytelanguage.net/2021/10/15/caliburn-micro-4-0-issue-with-eventaggregator/)
 - [.Net 6 : ArgumentNullException.ThrowIfNull](https://bytelanguage.net/2021/10/13/net-6-argumentnullexception-throwifnull/)
 - [Source Generator for DebuggerDisplayAttribute](https://bytelanguage.net/2021/10/03/source-generator-for-debuggerdisplayattribute/)
 - [WPF Tips and Tricks 001: TargetNullValue and FallBackValue](https://bytelanguage.net/2021/09/25/wpf-tips-and-tricks-001-targetnullvalue-and-fallbackvalue/)
-- [Json To Xml : Wrapping the Array Elements](https://bytelanguage.net/2021/09/18/json-to-xml-wrapping-the-array-elements/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
