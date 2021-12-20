@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Anti Corruption Layer](https://bytelanguage.net/2021/12/19/anti-corruption-layer/)
 - [Implementing Mediator And CQRS in .Net 6 Web Api](https://bytelanguage.net/2021/12/13/implementing-mediator-and-cqrs-in-net-6-web-api/)
 - [Design Patterns : Mediator Pattern](https://bytelanguage.net/2021/12/11/design-patterns-mediator-pattern/)
 - [A2Z.Net : B – BackgroundService](https://bytelanguage.net/2021/12/07/a2z-net-b-backgroundservice/)
 - [Why is ForEach Iteration over List<T> faster than IList<T>](https://bytelanguage.net/2021/12/02/why-is-foreach-iteration-over-listt-faster-than-ilistt/)
-- [MongoDb, Docker and Compass](https://bytelanguage.net/2021/11/16/mongodb-docker-and-compass/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
