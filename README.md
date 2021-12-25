@@ -15,11 +15,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Backend For Frontend Pattern](https://bytelanguage.net/2021/12/24/backend-for-frontend-pattern/)
 - [Automapper vs Mapster](https://bytelanguage.net/2021/12/21/automapper-vs-mapster/)
 - [Anti Corruption Layer](https://bytelanguage.net/2021/12/19/anti-corruption-layer/)
 - [Implementing Mediator And CQRS in .Net 6 Web Api](https://bytelanguage.net/2021/12/13/implementing-mediator-and-cqrs-in-net-6-web-api/)
 - [Design Patterns : Mediator Pattern](https://bytelanguage.net/2021/12/11/design-patterns-mediator-pattern/)
-- [A2Z.Net : B – BackgroundService](https://bytelanguage.net/2021/12/07/a2z-net-b-backgroundservice/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
