@@ -1,6 +1,6 @@
 # Anu Viswan
 
-Hey there I'm Anu Viswan, a .Net Developer and Team lead at **Beo Software**, India .  Prior to my current profile, I ....
+Hey there I'm Anu Viswan, a .Net Developer and Principal Engineer at **Beo Software**, India .  Prior to my current profile, I ....
 
 * _Cofounded_ **Ecsolvo Technologies**, where I developed Mobile and Web Applications for Education and Tourism industry
 * used to be _Project Manager_ with **Cascade Revenue Management**, where I was involved with development of Web Applications for HealthCare Industry
