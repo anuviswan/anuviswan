@@ -16,11 +16,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Circuit Breaker](https://bytelanguage.net/2022/01/31/circuit-breaker/)
 - [Circuit Breaker with Ocelot & Polly – Part 2](https://bytelanguage.net/2022/01/24/circuit-breaker-with-ocelot-polly-part-2/)
 - [Circuit Breaker with Ocelot & Polly – Part 1](https://bytelanguage.net/2022/01/23/circuit-breaker-with-ocelot-polly-part-1/)
 - [Handling Cyclic References during Serialization](https://bytelanguage.net/2022/01/13/handling-cyclic-references-during-serialization/)
 - [Protobuf – Handling sub-classes](https://bytelanguage.net/2022/01/08/protobuf-handling-sub-classes/)
-- [Backend For Frontend Pattern](https://bytelanguage.net/2021/12/24/backend-for-frontend-pattern/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
