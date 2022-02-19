@@ -16,11 +16,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Docker Days](https://bytelanguage.net/2022/02/18/docker-days/)
+- [#DockerDays Day 2- Running your first Container](https://bytelanguage.net/2022/02/18/dockerdays-day-2-running-your-first-container/)
 - [#DockerDays  Day 1 – Introduction to Docker Concepts](https://bytelanguage.net/2022/02/15/dockerdays-day-1-introduction-to-docker-concepts/)
 - [EvilCode #14 : Can you instantiate an interface using new operator ?](https://bytelanguage.net/2022/02/07/evilcode-14-can-you-instantiate-an-interface-using-new-operator/)
 - [Circuit Breaker](https://bytelanguage.net/2022/01/31/circuit-breaker/)
-- [Circuit Breaker with Ocelot & Polly – Part 2](https://bytelanguage.net/2022/01/24/circuit-breaker-with-ocelot-polly-part-2/)
-- [Circuit Breaker with Ocelot & Polly – Part 1](https://bytelanguage.net/2022/01/23/circuit-breaker-with-ocelot-polly-part-1/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
