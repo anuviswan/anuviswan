@@ -16,11 +16,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [#DockerDays Day 4- Data Persistence](https://bytelanguage.net/2022/02/27/dockerdays-day-4-data-persistence/)
 - [#DockerDays Day 3- Networking in Docker](https://bytelanguage.net/2022/02/22/dockerdays-day-3-networking-in-docker/)
 - [Docker Days](https://bytelanguage.net/2022/02/18/docker-days/)
 - [#DockerDays Day 2- Running your first Container](https://bytelanguage.net/2022/02/18/dockerdays-day-2-running-your-first-container/)
 - [#DockerDays  Day 1 – Introduction to Docker Concepts](https://bytelanguage.net/2022/02/15/dockerdays-day-1-introduction-to-docker-concepts/)
-- [EvilCode #14 : Can you instantiate an interface using new operator ?](https://bytelanguage.net/2022/02/07/evilcode-14-can-you-instantiate-an-interface-using-new-operator/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
