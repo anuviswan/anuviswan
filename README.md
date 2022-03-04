@@ -1,4 +1,5 @@
 # Anu Viswan
+![Profile views](https://gpvc.arturio.dev/anuviswan)  
 
 Hey there I'm Anu Viswan, as _Principal Engineer_ at **Beo Software**, India .  Prior to my current profile, I ....
 
@@ -13,6 +14,8 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 * Visual Story Telling : [sketchnote.hashnode.dev](sketchnote.hashnode.dev/)
 * CSharpCorner Author : [Profile](https://www.c-sharpcorner.com/members/anu.viswan)
 * Stackoverflow : [Profile](https://stackoverflow.com/users/7299782/anu-viswan)
+
+![Anu's github stats](https://github-readme-stats.vercel.app/api?username=anuviswan)
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
