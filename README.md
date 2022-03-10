@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [#DockerDays Day 5 – Building Images with dockerfile](https://bytelanguage.net/2022/03/09/dockerdays-day-5-building-images-with-dockerfile/)
 - [#DockerDays Day 4- Data Persistence](https://bytelanguage.net/2022/02/27/dockerdays-day-4-data-persistence/)
 - [#DockerDays Day 3- Networking in Docker](https://bytelanguage.net/2022/02/22/dockerdays-day-3-networking-in-docker/)
 - [Docker Days](https://bytelanguage.net/2022/02/18/docker-days/)
 - [#DockerDays Day 2- Running your first Container](https://bytelanguage.net/2022/02/18/dockerdays-day-2-running-your-first-container/)
-- [#DockerDays  Day 1 – Introduction to Docker Concepts](https://bytelanguage.net/2022/02/15/dockerdays-day-1-introduction-to-docker-concepts/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
