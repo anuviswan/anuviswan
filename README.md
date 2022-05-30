@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Retry Pattern](https://bytelanguage.net/2022/05/29/retry-pattern/)
 - [#DockerDays Day 6 – Docker Compose](https://bytelanguage.net/2022/04/23/dockerdays-day-6-docker-compose/)
 - [NLog and MongoDB](https://bytelanguage.net/2022/03/30/nlog-and-mongodb/)
 - [Debugging Wix Installer](https://bytelanguage.net/2022/03/22/debugging-wix-installer/)
 - [#DockerDays Day 5 – Building Images with dockerfile](https://bytelanguage.net/2022/03/09/dockerdays-day-5-building-images-with-dockerfile/)
-- [#DockerDays Day 4- Data Persistence](https://bytelanguage.net/2022/02/27/dockerdays-day-4-data-persistence/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
