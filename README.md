@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [The required modifier : Understand the limitations](https://bytelanguage.net/2022/11/30/the-required-modifier-understand-the-limitations/)
 - [K-Sum – A generalized solution](https://bytelanguage.net/2022/11/27/k-sum-a-generalized-solution/)
 - [QT #3 : Hello World using Qt Widgets](https://bytelanguage.net/2022/11/08/qt-3-hello-world-using-qt-widgets/)
 - [QT #2 : Signals and Slots](https://bytelanguage.net/2022/11/01/qt-2-signals-and-slots/)
 - [Mediator using MassTransit](https://bytelanguage.net/2022/10/23/mediator-using-masstransit/)
-- [gRPC-Web : Using gRPC over browser application](https://bytelanguage.net/2022/10/17/grpc-web-using-grpc-over-browser-application/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
