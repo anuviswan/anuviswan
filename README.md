@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Implementing Saga 002 : Message Broker](https://bytelanguage.wordpress.com/2023/01/04/implementing-saga-002-message-broker/)
 - [Implementing Saga 001 : Building Services](https://bytelanguage.wordpress.com/2023/01/01/implementing-saga-001-building-services/)
 - [Compare JSON Arrays](https://bytelanguage.wordpress.com/2022/12/03/compare-json-arrays/)
 - [The required modifier : Understand the limitations](https://bytelanguage.wordpress.com/2022/11/30/the-required-modifier-understand-the-limitations/)
 - [K-Sum – A generalized solution](https://bytelanguage.wordpress.com/2022/11/27/k-sum-a-generalized-solution/)
-- [QT #3 : Hello World using Qt Widgets](https://bytelanguage.wordpress.com/2022/11/08/qt-3-hello-world-using-qt-widgets/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
