@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Seed Postgres Database with FluentMigrator](https://bytelanguage.com/2023/01/31/seed-postgres-database-with-fluentmigrator/)
 - [Implementing Saga 002 : Message Broker](https://bytelanguage.com/2023/01/04/implementing-saga-002-message-broker/)
 - [Implementing Saga 001 : Building Services](https://bytelanguage.com/2023/01/01/implementing-saga-001-building-services/)
 - [Compare JSON Arrays](https://bytelanguage.com/2022/12/03/compare-json-arrays/)
 - [The required modifier : Understand the limitations](https://bytelanguage.com/2022/11/30/the-required-modifier-understand-the-limitations/)
-- [K-Sum – A generalized solution](https://bytelanguage.com/2022/11/27/k-sum-a-generalized-solution/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
