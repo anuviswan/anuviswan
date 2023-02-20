@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Install Extensions in Postgres Docker container](https://bytelanguage.com/2023/02/19/install-extensions-in-postgres-docker-container/)
 - [Create Mongo Replicaset using Docker Compose](https://bytelanguage.com/2023/02/13/create-mongo-replicaset-using-docker-compose/)
 - [Seed Postgres Database with FluentMigrator](https://bytelanguage.com/2023/01/31/seed-postgres-database-with-fluentmigrator/)
 - [Implementing Saga 002 : Message Broker](https://bytelanguage.com/2023/01/04/implementing-saga-002-message-broker/)
 - [Implementing Saga 001 : Building Services](https://bytelanguage.com/2023/01/01/implementing-saga-001-building-services/)
-- [Compare JSON Arrays](https://bytelanguage.com/2022/12/03/compare-json-arrays/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
