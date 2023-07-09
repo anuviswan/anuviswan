@@ -18,11 +18,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [Axios, Typescript and Vue 3](https://bytelanguage.com/2023/07/08/axios-typescript-and-vue-3/)
 - [Child Component Validation using Vuelidate](https://bytelanguage.com/2023/06/30/child-component-validation-using-vuelidate/)
 - [Conditional Serialization in Protobuf](https://bytelanguage.com/2023/06/06/conditional-serialization-in-protobuf/)
 - [Nginx and Load Balancing](https://bytelanguage.com/2023/04/04/nginx-and-load-balancing/)
 - [Hidden gems in List Pattern](https://bytelanguage.com/2023/02/28/hidden-gems-in-list-pattern/)
-- [Install Extensions in Postgres Docker container](https://bytelanguage.com/2023/02/19/install-extensions-in-postgres-docker-container/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
