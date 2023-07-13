@@ -1,6 +1,4 @@
 # Anu Viswan
-![Profile views](https://gpvc.arturio.dev/anuviswan)  
-
 Hey there I'm Anu Viswan, as _Principal Engineer_ at **Beo Software**, India .  Prior to my current profile, I ....
 
 * _Cofounded_ **Ecsolvo Technologies**, where I guided and developed applications in Education and Tourisim domain.
