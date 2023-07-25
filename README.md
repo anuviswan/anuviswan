@@ -16,11 +16,11 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ## Recent Blogs
 <!-- BLOGPOSTS:START -->
+- [GraphQL Day 00 : Introduction to Building Blocks](https://bytelanguage.com/2023/07/24/graphql-day-01-introduction-to-building-blocks/)
 - [Running MongoExpress  in Docker : Solving the connection issue](https://bytelanguage.com/2023/07/20/running-mongoexpress-in-docker-solving-the-connection-issue/)
 - [Axios, Typescript and Vue 3](https://bytelanguage.com/2023/07/08/axios-typescript-and-vue-3/)
 - [Child Component Validation using Vuelidate](https://bytelanguage.com/2023/06/30/child-component-validation-using-vuelidate/)
 - [Conditional Serialization in Protobuf](https://bytelanguage.com/2023/06/06/conditional-serialization-in-protobuf/)
-- [Nginx and Load Balancing](https://bytelanguage.com/2023/04/04/nginx-and-load-balancing/)
 <!-- BLOGPOSTS:END -->
 
 # Reach me
