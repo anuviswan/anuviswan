@@ -14,15 +14,6 @@ You can find more details on my professional career in my [Linkedin Profile](htt
 
 ![Anu's github stats](https://github-readme-stats.vercel.app/api?username=anuviswan)
 
-## Recent Blogs
-<!-- BLOGPOSTS:START -->
-- [Scaling with Docker Compose and Configuring Load Balancer](https://bytelanguage.com/2023/10/05/scaling-with-docker-compose-and-configuring-load-balancer/)
-- [GraphQL Day 004 : Subscriptions](https://bytelanguage.com/2023/09/18/graphql-day-004-subscriptions/)
-- [Tristate checkbox in Vue JS](https://bytelanguage.com/2023/09/09/tristate-checkbox-in-vue-js/)
-- [GraphQL Day 003 : Defining Mutations](https://bytelanguage.com/2023/08/01/graphql-day-003-defining-mutations/)
-- [GraphQL Day 002 : Type Definition basics](https://bytelanguage.com/2023/07/28/graphql-day-003-type-definition-basics/)
-<!-- BLOGPOSTS:END -->
-
 # Reach me
 * Twitter : [anuviswan](https://twitter.com/anuviswan)
 * Email : anu.viswan@gmail.com
